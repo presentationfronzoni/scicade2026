@@ -17,25 +17,9 @@ li{
   line-height: 40px;
 }
 
-#provaleft{
-  position: absolute;
-  top: 390px;
-  right: 650px;
-  width: 500px;
-  line-height: 40px;
-}
-
-#provaright{
-  position: absolute;
-  top: 390px;
-  left: 650px;
-  width: 500px;
-  line-height: 40px;
-}
-
 #provac{
   position: absolute;
-  top: 300px;
+  top: 260px;
   left: 270px;
   width: 400px;
   line-height: 70px;
